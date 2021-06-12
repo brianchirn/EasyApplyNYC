@@ -1,0 +1,6 @@
+{
+    "username" : "testusername",
+    "password" : "testpassword",
+    "driver_path" : "/Users/Projects/NYCHousingApply/chromedriver",
+    "url" : "https://a806-housingconnectapi.nyc.gov/id4/account/login?returnUrl=%2Fid4%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dpublicweb%26state%3DQWVgvhZAu4QOeLbo2V75k9iDB7zwvORDjquURrJY;%252Fsome-state;p1%253D1;p2%253D2%26redirect_uri%3Dhttps%253A%252F%252Fhousingconnect.nyc.gov%252FPublicWeb%252F%26scope%3Dopenid%2520profile%2520email%2520usermanagementapi%2520publicapi%26nonce%3DQWVgvhZAu4QOeLbo2V75k9iDB7zwvORDjquURrJY" 
+}
