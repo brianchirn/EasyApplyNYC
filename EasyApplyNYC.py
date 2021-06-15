@@ -91,11 +91,8 @@ class EasyApply:
     
 
     def sort_by_expiring_soonest(self):
-        """sort page by expiring soonest"""
-        print('test') 
-
-
-   # def submit_appply(self, ):
+        """sort page by expiring soonest, feature coming soon"""
+        print('test')
         
 
 if __name__ == '__main__':
